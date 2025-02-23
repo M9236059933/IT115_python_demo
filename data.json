@@ -1,0 +1,12 @@
+{
+    "name": "Anzhello Merkutsio",
+    "age": 35,
+    "city": "Seattle, WA",
+    "interests": [
+        "Cars",
+        "Traveling",
+        "Food",
+        "Movies"
+    ],
+    "is_student": true
+}
